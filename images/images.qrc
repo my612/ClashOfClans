@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cannon.png</file>
+        <file>castle1.png</file>
+        <file>castle2.png</file>
+        <file>fence2.png</file>
+        <file>grass03.png</file>
+        <file>images.qrc</file>
+        <file>input.txt</file>
+        <file>tile_0005.png</file>
+        <file>troopDeath.png</file>
+        <file>troopKnifeAttack1.png</file>
+        <file>troopKnifeAttack2.png</file>
+        <file>gameoverwindow.jpg</file>
+        <file>gtalevelup1.jpg</file>
+        <file>Win.jpg</file>
+        <file>start1.jpg</file>
+    </qresource>
+</RCC>
